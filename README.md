@@ -25,3 +25,12 @@ CryptChat is a secure, real-time chat application designed to prioritize user pr
 
 ## Project Structure  
 ├── client.js # Handles client-side communication ├── server.js # Main server file for backend functionality ├── package.json # Node.js dependencies ├── package-lock.json # Dependency tree ├── /public # Frontend files (HTML, CSS, JS) ├── /routes # API routes for backend ├── /config # Configuration files (e.g., database connection) └── /utils # Utility functions (e.g., encryption, key management)
+
+
+## Contributing
+Contributions are welcome! Feel free to submit a pull request or report issues.
+
+# License
+This project is licensed under the MIT License.
+
+
